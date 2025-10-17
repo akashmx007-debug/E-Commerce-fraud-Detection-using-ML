@@ -1,0 +1,11 @@
+E-Commerce Fraud Detection Based on Machine Learning
+ 
+****************************************************
+Algorithm / Model Used: Stacking Classifier
+
+Accuracy Train Score: 100% and Test score: 99%
+****************************************************
+Algorithm / Model Used: XGB Classifier.
+
+Accuracy Train Score: 96% and Test Score: 95%
+****************************************************
