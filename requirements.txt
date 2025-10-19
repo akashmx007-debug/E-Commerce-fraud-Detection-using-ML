@@ -3,9 +3,10 @@ pandas==2.2.2
 numpy==1.26.4
 xgboost==2.1.1
 scikit-learn==1.5.0
-gdown
+gdown==5.2.0
 matplotlib==3.9.0
 seaborn==0.13.2
 gunicorn==21.2.0
+
 
 
